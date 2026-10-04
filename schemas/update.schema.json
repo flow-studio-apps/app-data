@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://flow-studio-apps.github.io/app-data/schemas/update.schema.json",
+  "title": "Update rules (manifest.update)",
+  "description": "Below minSupportedVersion: blocking 'Update required' screen. Below latestVersion: dismissible 'Update available' sheet, shown again after reminderIntervalHours. Also enforced: latestVersion >= minSupportedVersion (tools/lib.mjs).",
+  "type": "object",
+  "anyOf": [{ "required": ["android"] }, { "required": ["ios"] }],
+  "properties": {
+    "android": { "$ref": "#/$defs/platform" },
+    "ios": { "$ref": "#/$defs/platform" },
+    "forceMessage": { "$ref": "#/$defs/localizedText" },
+    "available": {
+      "type": "object",
+      "properties": {
+        "newFeaturesCount": { "type": "integer", "minimum": 0 },
+        "bugFixesCount": { "type": "integer", "minimum": 0 },
+        "packageSizeLabel": { "type": "string" },
+        "reminderIntervalHours": { "type": "integer", "minimum": 1 },
+        "notes": { "$ref": "#/$defs/localizedText" }
+      }
+    }
+  },
+  "$defs": {
+    "semver": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "platform": {
+      "type": "object",
+      "required": ["minSupportedVersion", "latestVersion", "storeUrl"],
+      "properties": {
+        "minSupportedVersion": { "$ref": "#/$defs/semver" },
+        "latestVersion": { "$ref": "#/$defs/semver" },
+        "storeUrl": { "type": "string", "pattern": "^https://" }
+      }
+    },
+    "localizedText": {
+      "type": "object",
+      "required": ["en"],
+      "properties": { "en": { "type": "string", "minLength": 1 } },
+      "additionalProperties": { "type": "string" }
+    }
+  }
+}

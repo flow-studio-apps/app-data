@@ -1,0 +1,444 @@
+{
+ "year": 2030,
+ "region": "IN",
+ "items": [
+  {
+   "id": "makar-sankranti",
+   "date": "2030-01-14",
+   "kind": "major",
+   "name": {
+    "en": "Makar Sankranti",
+    "hi": "मकर संक्रांति"
+   },
+   "short": {
+    "en": "The Sun enters Makara (Capricorn) and the northward journey begins; celebrated as Pongal, Uttarayan and Magh Bihu across regions, with Lohri on the evening before.",
+    "hi": "सूर्य मकर राशि में प्रवेश करते हैं और उत्तरायण की शुरुआत होती है; अलग-अलग क्षेत्रों में इसे पोंगल, उत्तरायण और माघ बिहू के रूप में मनाया जाता है, और एक शाम पहले लोहड़ी मनाई जाती है।"
+   }
+  },
+  {
+   "id": "vasant-panchami",
+   "date": "2030-02-07",
+   "kind": "minor",
+   "name": {
+    "en": "Vasant Panchami",
+    "hi": "वसंत पंचमी"
+   },
+   "short": {
+    "en": "Marks the arrival of spring; devotees worship Saraswati, the goddess of learning and the arts.",
+    "hi": "वसंत ऋतु के आगमन का पर्व; विद्या और कला की देवी सरस्वती की पूजा की जाती है।"
+   },
+   "tithi": {
+    "en": "Magha Shukla Panchami",
+    "hi": "माघ शुक्ल पंचमी"
+   }
+  },
+  {
+   "id": "maha-shivaratri",
+   "date": "2030-03-02",
+   "kind": "major",
+   "name": {
+    "en": "Maha Shivaratri",
+    "hi": "महाशिवरात्रि"
+   },
+   "short": {
+    "en": "The great night of Shiva, observed with fasting, a night-long vigil and prayers.",
+    "hi": "भगवान शिव की महान रात्रि, जिसे उपवास, रात्रि जागरण और पूजा के साथ मनाया जाता है।"
+   },
+   "tithi": {
+    "en": "Magha Krishna Chaturdashi",
+    "hi": "माघ कृष्ण चतुर्दशी"
+   }
+  },
+  {
+   "id": "holika-dahan",
+   "date": "2030-03-19",
+   "kind": "minor",
+   "name": {
+    "en": "Holika Dahan",
+    "hi": "होलिका दहन"
+   },
+   "short": {
+    "en": "Bonfires are lit the evening before Holi, symbolising the victory of devotion over evil.",
+    "hi": "होली से एक शाम पहले अलाव जलाया जाता है, जो बुराई पर भक्ति की विजय का प्रतीक है।"
+   },
+   "tithi": {
+    "en": "Phalguna Purnima",
+    "hi": "फाल्गुन पूर्णिमा"
+   }
+  },
+  {
+   "id": "holi",
+   "date": "2030-03-20",
+   "kind": "major",
+   "name": {
+    "en": "Holi",
+    "hi": "होली"
+   },
+   "short": {
+    "en": "The festival of colours, welcoming spring and celebrating the triumph of good over evil.",
+    "hi": "रंगों का त्योहार, जो वसंत का स्वागत और बुराई पर अच्छाई की जीत का उत्सव है।"
+   },
+   "tithi": {
+    "en": "Phalguna Purnima",
+    "hi": "फाल्गुन पूर्णिमा"
+   }
+  },
+  {
+   "id": "ugadi",
+   "date": "2030-04-03",
+   "kind": "major",
+   "name": {
+    "en": "Ugadi / Gudi Padwa",
+    "hi": "उगादी / गुड़ी पड़वा"
+   },
+   "short": {
+    "en": "The new year in Andhra Pradesh, Telangana and Karnataka (Ugadi) and in Maharashtra (Gudi Padwa); Chaitra Navratri begins on the same day.",
+    "hi": "आंध्र प्रदेश, तेलंगाना और कर्नाटक में उगादी तथा महाराष्ट्र में गुड़ी पड़वा के रूप में नववर्ष; इसी दिन चैत्र नवरात्रि का आरंभ होता है।"
+   },
+   "tithi": {
+    "en": "Chaitra Shukla Pratipada",
+    "hi": "चैत्र शुक्ल प्रतिपदा"
+   }
+  },
+  {
+   "id": "ram-navami",
+   "date": "2030-04-12",
+   "kind": "major",
+   "name": {
+    "en": "Ram Navami",
+    "hi": "राम नवमी"
+   },
+   "short": {
+    "en": "Celebrates the birth of Lord Rama on the ninth day of Chaitra's bright half.",
+    "hi": "चैत्र शुक्ल नवमी को भगवान राम के जन्म का उत्सव।"
+   },
+   "tithi": {
+    "en": "Chaitra Shukla Navami",
+    "hi": "चैत्र शुक्ल नवमी"
+   }
+  },
+  {
+   "id": "hanuman-jayanti",
+   "date": "2030-04-18",
+   "kind": "minor",
+   "name": {
+    "en": "Hanuman Jayanti",
+    "hi": "हनुमान जयंती"
+   },
+   "short": {
+    "en": "Marks the birth of Hanuman on Chaitra Purnima, as observed in North India; some regions observe it on other dates. Prayers and the Hanuman Chalisa are recited.",
+    "hi": "चैत्र पूर्णिमा को हनुमान जी के जन्म का पर्व, जैसा उत्तर भारत में मनाया जाता है; कुछ क्षेत्रों में यह अन्य तिथियों पर मनाया जाता है। पूजा और हनुमान चालीसा का पाठ होता है।"
+   },
+   "tithi": {
+    "en": "Chaitra Purnima",
+    "hi": "चैत्र पूर्णिमा"
+   }
+  },
+  {
+   "id": "akshaya-tritiya",
+   "date": "2030-05-05",
+   "kind": "minor",
+   "name": {
+    "en": "Akshaya Tritiya",
+    "hi": "अक्षय तृतीया"
+   },
+   "short": {
+    "en": "An auspicious day for new beginnings, charity and purchases believed to bring lasting prosperity.",
+    "hi": "नई शुरुआत, दान और शुभ खरीदारी के लिए अच्छा दिन, जिससे स्थायी समृद्धि मानी जाती है।"
+   },
+   "tithi": {
+    "en": "Vaishakha Shukla Tritiya",
+    "hi": "वैशाख शुक्ल तृतीया"
+   }
+  },
+  {
+   "id": "rath-yatra",
+   "date": "2030-07-02",
+   "kind": "minor",
+   "name": {
+    "en": "Rath Yatra",
+    "hi": "रथ यात्रा"
+   },
+   "short": {
+    "en": "The chariot festival of Lord Jagannath at Puri, also held in many other cities.",
+    "hi": "पुरी में भगवान जगन्नाथ की रथ यात्रा का उत्सव, जो कई अन्य नगरों में भी निकाली जाती है।"
+   },
+   "tithi": {
+    "en": "Ashadha Shukla Dwitiya",
+    "hi": "आषाढ़ शुक्ल द्वितीया"
+   }
+  },
+  {
+   "id": "guru-purnima",
+   "date": "2030-07-15",
+   "kind": "minor",
+   "name": {
+    "en": "Guru Purnima",
+    "hi": "गुरु पूर्णिमा"
+   },
+   "short": {
+    "en": "A day to honour teachers and gurus, also observed as Vyasa Purnima.",
+    "hi": "गुरुओं और शिक्षकों के सम्मान का दिन, जिसे व्यास पूर्णिमा भी कहते हैं।"
+   },
+   "tithi": {
+    "en": "Ashadha Purnima",
+    "hi": "आषाढ़ पूर्णिमा"
+   }
+  },
+  {
+   "id": "nag-panchami",
+   "date": "2030-08-04",
+   "kind": "minor",
+   "name": {
+    "en": "Nag Panchami",
+    "hi": "नाग पंचमी"
+   },
+   "short": {
+    "en": "Snakes (nagas) are worshipped with milk and prayers for protection and well-being.",
+    "hi": "नाग देवता की दूध और प्रार्थना से पूजा की जाती है, सुरक्षा और कल्याण की कामना के साथ।"
+   },
+   "tithi": {
+    "en": "Shravana Shukla Panchami",
+    "hi": "श्रावण शुक्ल पंचमी"
+   }
+  },
+  {
+   "id": "raksha-bandhan",
+   "date": "2030-08-13",
+   "kind": "major",
+   "name": {
+    "en": "Raksha Bandhan",
+    "hi": "रक्षाबंधन"
+   },
+   "short": {
+    "en": "Sisters tie a rakhi on their brothers' wrists, celebrating the bond of protection and affection.",
+    "hi": "बहनें भाइयों की कलाई पर राखी बाँधती हैं, यह रक्षा और स्नेह के बंधन का उत्सव है।"
+   },
+   "tithi": {
+    "en": "Shravana Purnima",
+    "hi": "श्रावण पूर्णिमा"
+   }
+  },
+  {
+   "id": "krishna-janmashtami",
+   "date": "2030-08-21",
+   "kind": "major",
+   "name": {
+    "en": "Krishna Janmashtami",
+    "hi": "कृष्ण जन्माष्टमी"
+   },
+   "short": {
+    "en": "Celebrates the birth of Lord Krishna, with fasting, devotional singing and midnight prayers.",
+    "hi": "भगवान कृष्ण के जन्म का उत्सव, जिसमें उपवास, भजन और मध्यरात्रि की पूजा होती है।"
+   },
+   "tithi": {
+    "en": "Shravana Krishna Ashtami",
+    "hi": "श्रावण कृष्ण अष्टमी"
+   }
+  },
+  {
+   "id": "ganesh-chaturthi",
+   "date": "2030-09-01",
+   "kind": "major",
+   "name": {
+    "en": "Ganesh Chaturthi",
+    "hi": "गणेश चतुर्थी"
+   },
+   "short": {
+    "en": "Begins the festival honouring Lord Ganesha, the remover of obstacles.",
+    "hi": "विघ्नहर्ता भगवान गणेश के उत्सव की शुरुआत।"
+   },
+   "tithi": {
+    "en": "Bhadrapada Shukla Chaturthi",
+    "hi": "भाद्रपद शुक्ल चतुर्थी"
+   }
+  },
+  {
+   "id": "anant-chaturdashi",
+   "date": "2030-09-10",
+   "kind": "minor",
+   "name": {
+    "en": "Anant Chaturdashi",
+    "hi": "अनंत चतुर्दशी"
+   },
+   "short": {
+    "en": "The concluding day of Ganeshotsav, when Ganesha idols are immersed and Lord Vishnu as Ananta is worshipped.",
+    "hi": "गणेशोत्सव का समापन दिवस, जब गणेश प्रतिमाओं का विसर्जन होता है और भगवान विष्णु के अनंत रूप की पूजा की जाती है।"
+   },
+   "tithi": {
+    "en": "Bhadrapada Shukla Chaturdashi",
+    "hi": "भाद्रपद शुक्ल चतुर्दशी"
+   }
+  },
+  {
+   "id": "sharad-navratri",
+   "date": "2030-09-28",
+   "kind": "major",
+   "name": {
+    "en": "Sharad Navratri begins",
+    "hi": "शारदीय नवरात्रि आरंभ"
+   },
+   "short": {
+    "en": "Nine nights devoted to the goddess Durga begin; Dussehra follows on the tenth day.",
+    "hi": "देवी दुर्गा को समर्पित नौ रातों का आरंभ; दसवें दिन दशहरा मनाया जाता है।"
+   },
+   "tithi": {
+    "en": "Ashwin Shukla Pratipada",
+    "hi": "आश्विन शुक्ल प्रतिपदा"
+   }
+  },
+  {
+   "id": "dussehra",
+   "date": "2030-10-06",
+   "kind": "major",
+   "name": {
+    "en": "Dussehra (Vijayadashami)",
+    "hi": "दशहरा (विजयादशमी)"
+   },
+   "short": {
+    "en": "Celebrates the victory of good over evil: Rama over Ravana and Durga over Mahishasura.",
+    "hi": "बुराई पर अच्छाई की जीत का पर्व: राम की रावण पर और दुर्गा की महिषासुर पर विजय।"
+   },
+   "tithi": {
+    "en": "Ashwin Shukla Dashami",
+    "hi": "आश्विन शुक्ल दशमी"
+   }
+  },
+  {
+   "id": "karwa-chauth",
+   "date": "2030-10-15",
+   "kind": "major",
+   "name": {
+    "en": "Karwa Chauth",
+    "hi": "करवा चौथ"
+   },
+   "short": {
+    "en": "Married women observe a day-long fast for their spouses' well-being, breaking it after moonrise.",
+    "hi": "विवाहित महिलाएँ पति के कल्याण के लिए दिनभर उपवास रखती हैं और चंद्रोदय के बाद उसे खोलती हैं।"
+   },
+   "tithi": {
+    "en": "Ashwin Krishna Chaturthi",
+    "hi": "आश्विन कृष्ण चतुर्थी"
+   }
+  },
+  {
+   "id": "dhanteras",
+   "date": "2030-10-24",
+   "kind": "minor",
+   "name": {
+    "en": "Dhanteras",
+    "hi": "धनतेरस"
+   },
+   "short": {
+    "en": "The first day of Diwali, dedicated to Dhanvantari and Lakshmi; a customary day for buying gold or utensils.",
+    "hi": "दिवाली का पहला दिन, जो धन्वंतरि और लक्ष्मी को समर्पित है; सोना या बर्तन खरीदने की परंपरा है।"
+   },
+   "tithi": {
+    "en": "Ashwin Krishna Trayodashi",
+    "hi": "आश्विन कृष्ण त्रयोदशी"
+   }
+  },
+  {
+   "id": "diwali",
+   "date": "2030-10-26",
+   "kind": "major",
+   "name": {
+    "en": "Diwali (Lakshmi Puja)",
+    "hi": "दिवाली (लक्ष्मी पूजन)"
+   },
+   "short": {
+    "en": "The festival of lights: Lakshmi Puja is performed on the new-moon evening and homes are lit with diyas.",
+    "hi": "रोशनी का त्योहार: अमावस्या की शाम लक्ष्मी पूजन होता है और घर दीपों से जगमगाते हैं।"
+   },
+   "tithi": {
+    "en": "Ashwin Amavasya",
+    "hi": "आश्विन अमावस्या"
+   }
+  },
+  {
+   "id": "govardhan-puja",
+   "date": "2030-10-27",
+   "kind": "minor",
+   "name": {
+    "en": "Govardhan Puja",
+    "hi": "गोवर्धन पूजा"
+   },
+   "short": {
+    "en": "Commemorates Krishna lifting Govardhan hill; Annakut offerings are prepared.",
+    "hi": "कृष्ण द्वारा गोवर्धन पर्वत उठाने की स्मृति में मनाया जाता है; अन्नकूट का प्रसाद बनता है।"
+   },
+   "tithi": {
+    "en": "Kartika Shukla Pratipada",
+    "hi": "कार्तिक शुक्ल प्रतिपदा"
+   }
+  },
+  {
+   "id": "bhai-dooj",
+   "date": "2030-10-28",
+   "kind": "minor",
+   "name": {
+    "en": "Bhai Dooj",
+    "hi": "भाई दूज"
+   },
+   "short": {
+    "en": "Sisters pray for their brothers' long life and brothers give gifts in return.",
+    "hi": "बहनें भाइयों की लंबी आयु की प्रार्थना करती हैं और भाई उपहार देते हैं।"
+   },
+   "tithi": {
+    "en": "Kartika Shukla Dwitiya",
+    "hi": "कार्तिक शुक्ल द्वितीया"
+   }
+  },
+  {
+   "id": "chhath-puja",
+   "date": "2030-11-01",
+   "kind": "minor",
+   "name": {
+    "en": "Chhath Puja",
+    "hi": "छठ पूजा"
+   },
+   "short": {
+    "en": "Devotees offer arghya to the setting and rising Sun, especially in Bihar, Jharkhand and eastern Uttar Pradesh.",
+    "hi": "भक्त डूबते और उगते सूर्य को अर्घ्य देते हैं, विशेषकर बिहार, झारखंड और पूर्वी उत्तर प्रदेश में।"
+   },
+   "tithi": {
+    "en": "Kartika Shukla Shashthi",
+    "hi": "कार्तिक शुक्ल षष्ठी"
+   }
+  },
+  {
+   "id": "dev-uthani-ekadashi",
+   "date": "2030-11-05",
+   "kind": "minor",
+   "name": {
+    "en": "Dev Uthani Ekadashi",
+    "hi": "देवउठनी एकादशी"
+   },
+   "short": {
+    "en": "Lord Vishnu is believed to awaken from his four-month sleep; weddings and auspicious events resume.",
+    "hi": "माना जाता है कि भगवान विष्णु चार माह की निद्रा से जागते हैं; विवाह आदि शुभ कार्य फिर शुरू होते हैं।"
+   },
+   "tithi": {
+    "en": "Kartika Shukla Ekadashi",
+    "hi": "कार्तिक शुक्ल एकादशी"
+   }
+  },
+  {
+   "id": "kartik-purnima",
+   "date": "2030-11-10",
+   "kind": "minor",
+   "name": {
+    "en": "Kartik Purnima",
+    "hi": "कार्तिक पूर्णिमा"
+   },
+   "short": {
+    "en": "A holy full-moon day of bathing and lamps; Dev Diwali in Varanasi and Guru Nanak Jayanti fall on it.",
+    "hi": "स्नान और दीपदान की पवित्र पूर्णिमा; इसी दिन काशी में देव दिवाली और गुरु नानक जयंती मनाई जाती है।"
+   },
+   "tithi": {
+    "en": "Kartika Purnima",
+    "hi": "कार्तिक पूर्णिमा"
+   }
+  }
+ ]
+}

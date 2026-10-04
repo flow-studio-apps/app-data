@@ -1,0 +1,208 @@
+{
+ "entries": {
+  "lagna.aries": {
+   "en": "Aries ascendant (Mesha): energetic, direct and quick to act. Traditionally associated with courage, initiative and a competitive spirit.",
+   "hi": "मेष लग्न: ऊर्जावान, स्पष्टवादी और तुरंत कदम उठाने वाला। परंपरा में इसे साहस, पहल और प्रतिस्पर्धा की भावना से जोड़ा जाता है।"
+  },
+  "moonSign.aries": {
+   "en": "Moon in Aries: emotions are quick and direct; you tend to react fast and recover fast.",
+   "hi": "मेष राशि का चंद्र: भावनाएँ तेज़ और सीधी होती हैं; आप जल्दी प्रतिक्रिया देते हैं और जल्दी संभल भी जाते हैं।"
+  },
+  "lagna.taurus": {
+   "en": "Taurus ascendant (Vrishabha): steady, patient and practical. Associated with comfort, loyalty and a love of beauty and good food.",
+   "hi": "वृषभ लग्न: स्थिर, धैर्यवान और व्यावहारिक। इसे सुख-सुविधा, निष्ठा तथा सुंदरता और अच्छे भोजन के प्रेम से जोड़ा जाता है।"
+  },
+  "moonSign.taurus": {
+   "en": "Moon in Taurus (its sign of exaltation): calm and comfort-seeking; you feel secure with routine, familiar people and good food.",
+   "hi": "वृषभ राशि का चंद्र (अपनी उच्च राशि में): शांत और सुख-प्रिय; दिनचर्या, जाने-पहचाने लोगों और अच्छे भोजन के साथ आप सुरक्षित महसूस करते हैं।"
+  },
+  "lagna.gemini": {
+   "en": "Gemini ascendant (Mithuna): curious, talkative and adaptable. Associated with learning, communication and a restless mind.",
+   "hi": "मिथुन लग्न: जिज्ञासु, वाक्पटु और अनुकूलनशील। इसे सीखने, संवाद और चंचल मन से जोड़ा जाता है।"
+  },
+  "moonSign.gemini": {
+   "en": "Moon in Gemini: a curious, changeable mind; you process feelings by talking and learning.",
+   "hi": "मिथुन राशि का चंद्र: जिज्ञासु और बदलता मन; आप बात करके और सीखकर भावनाओं को समझते हैं।"
+  },
+  "lagna.cancer": {
+   "en": "Cancer ascendant (Karka): sensitive, caring and protective. Associated with strong feelings, family ties and a good memory.",
+   "hi": "कर्क लग्न: संवेदनशील, देखभाल करने वाला और रक्षक। इसे गहरी भावनाओं, पारिवारिक बंधनों और अच्छी स्मृति से जोड़ा जाता है।"
+  },
+  "moonSign.cancer": {
+   "en": "Moon in Cancer (its own sign): deeply feeling and nurturing; home and family are your emotional anchors.",
+   "hi": "कर्क राशि का चंद्र (अपनी राशि में): गहरी भावनाएँ और पालन-पोषण का स्वभाव; घर और परिवार आपके भावनात्मक सहारे हैं।"
+  },
+  "lagna.leo": {
+   "en": "Leo ascendant (Simha): confident, warm and generous. Associated with leadership, pride and a wish to be recognised.",
+   "hi": "सिंह लग्न: आत्मविश्वासी, स्नेही और उदार। इसे नेतृत्व, स्वाभिमान और पहचाने जाने की इच्छा से जोड़ा जाता है।"
+  },
+  "moonSign.leo": {
+   "en": "Moon in Leo: warm-hearted and proud; you need appreciation and enjoy being generous.",
+   "hi": "सिंह राशि का चंद्र: स्नेही और स्वाभिमानी; आपको सराहना चाहिए और उदार होना आपको अच्छा लगता है।"
+  },
+  "lagna.virgo": {
+   "en": "Virgo ascendant (Kanya): analytical, modest and helpful. Associated with attention to detail, service and self-improvement.",
+   "hi": "कन्या लग्न: विश्लेषणात्मक, विनम्र और सहायक। इसे बारीकियों पर ध्यान, सेवा और आत्म-सुधार से जोड़ा जाता है।"
+  },
+  "moonSign.virgo": {
+   "en": "Moon in Virgo: careful and practical; you calm yourself by organising and helping.",
+   "hi": "कन्या राशि का चंद्र: सतर्क और व्यावहारिक; व्यवस्थित करने और सहायता करने से आपको शांति मिलती है।"
+  },
+  "lagna.libra": {
+   "en": "Libra ascendant (Tula): balanced, diplomatic and sociable. Associated with fairness, partnership and a sense of aesthetics.",
+   "hi": "तुला लग्न: संतुलित, कूटनीतिक और मिलनसार। इसे न्याय, साझेदारी और सौंदर्य-बोध से जोड़ा जाता है।"
+  },
+  "moonSign.libra": {
+   "en": "Moon in Libra: harmony-seeking; you feel best in balanced, pleasant company.",
+   "hi": "तुला राशि का चंद्र: सामंजस्य चाहने वाला; संतुलित और सुखद संगति में आप सबसे अच्छा महसूस करते हैं।"
+  },
+  "lagna.scorpio": {
+   "en": "Scorpio ascendant (Vrishchika): intense, private and determined. Associated with depth, resilience and a talent for research.",
+   "hi": "वृश्चिक लग्न: तीव्र, गोपनीय और दृढ़ निश्चयी। इसे गहराई, सहनशक्ति और शोध की प्रतिभा से जोड़ा जाता है।"
+  },
+  "moonSign.scorpio": {
+   "en": "Moon in Scorpio (traditionally its sign of debilitation): intense and private; feelings run deep and you rarely forget.",
+   "hi": "वृश्चिक राशि का चंद्र (परंपरा में इसकी नीच राशि): तीव्र और गोपनीय; भावनाएँ गहरी होती हैं और आप बातें कम भूलते हैं।"
+  },
+  "lagna.sagittarius": {
+   "en": "Sagittarius ascendant (Dhanu): optimistic, honest and freedom-loving. Associated with philosophy, travel and higher learning.",
+   "hi": "धनु लग्न: आशावादी, ईमानदार और स्वतंत्रता-प्रिय। इसे दर्शन, यात्रा और उच्च शिक्षा से जोड़ा जाता है।"
+  },
+  "moonSign.sagittarius": {
+   "en": "Moon in Sagittarius: hopeful and adventurous; freedom and meaning matter to your peace of mind.",
+   "hi": "धनु राशि का चंद्र: आशावान और साहसिक; स्वतंत्रता और जीवन का अर्थ आपके मन की शांति के लिए महत्वपूर्ण हैं।"
+  },
+  "lagna.capricorn": {
+   "en": "Capricorn ascendant (Makara): disciplined, ambitious and patient. Associated with responsibility, structure and long-term achievement.",
+   "hi": "मकर लग्न: अनुशासित, महत्वाकांक्षी और धैर्यवान। इसे ज़िम्मेदारी, व्यवस्था और दीर्घकालिक उपलब्धि से जोड़ा जाता है।"
+  },
+  "moonSign.capricorn": {
+   "en": "Moon in Capricorn: reserved and dutiful; you feel secure when you are making steady progress.",
+   "hi": "मकर राशि का चंद्र: संयमी और कर्तव्यनिष्ठ; स्थिर प्रगति करते रहने पर आप सुरक्षित महसूस करते हैं।"
+  },
+  "lagna.aquarius": {
+   "en": "Aquarius ascendant (Kumbha): independent, inventive and humane. Associated with friendship, ideas and unconventional thinking.",
+   "hi": "कुंभ लग्न: स्वतंत्र, आविष्कारशील और मानवीय। इसे मित्रता, विचारों और अपरंपरागत सोच से जोड़ा जाता है।"
+  },
+  "moonSign.aquarius": {
+   "en": "Moon in Aquarius: detached and thoughtful; you value independence and friendships of ideas.",
+   "hi": "कुंभ राशि का चंद्र: अनासक्त और विचारशील; आप स्वतंत्रता और विचारों की मित्रता को महत्व देते हैं।"
+  },
+  "lagna.pisces": {
+   "en": "Pisces ascendant (Meena): imaginative, compassionate and intuitive. Associated with creativity, spirituality and sensitivity.",
+   "hi": "मीन लग्न: कल्पनाशील, दयालु और सहज-बोध वाला। इसे रचनात्मकता, आध्यात्मिकता और संवेदनशीलता से जोड़ा जाता है।"
+  },
+  "moonSign.pisces": {
+   "en": "Moon in Pisces: gentle and imaginative; you absorb the moods around you and need quiet time to recharge.",
+   "hi": "मीन राशि का चंद्र: कोमल और कल्पनाशील; आप आसपास के मूड को सोख लेते हैं और ऊर्जा पाने के लिए शांत समय चाहते हैं।"
+  },
+  "nakshatra.ashwini": {
+   "en": "Ashwini: ruled by Ketu, deity the Ashwini Kumaras. Traditionally described as quick to act, pioneering and drawn to healing.",
+   "hi": "अश्विनी: स्वामी केतु, देवता अश्विनी कुमार। परंपरा में इसे तुरंत कदम उठाने वाला, अग्रणी और उपचार की ओर झुकाव वाला बताया गया है।"
+  },
+  "nakshatra.bharani": {
+   "en": "Bharani: ruled by Venus, deity Yama. Traditionally described as intense, disciplined and able to carry heavy responsibility.",
+   "hi": "भरणी: स्वामी शुक्र, देवता यम। परंपरा में इसे तीव्र, अनुशासित और भारी ज़िम्मेदारी उठाने में सक्षम बताया गया है।"
+  },
+  "nakshatra.krittika": {
+   "en": "Krittika: ruled by Sun, deity Agni. Traditionally described as sharp, purifying and direct in speech.",
+   "hi": "कृत्तिका: स्वामी सूर्य, देवता अग्नि। परंपरा में इसे तीक्ष्ण, शुद्ध करने वाला और वाणी में सीधा बताया गया है।"
+  },
+  "nakshatra.rohini": {
+   "en": "Rohini: ruled by Moon, deity Prajapati. Traditionally described as creative, charming and fond of comfort and beauty.",
+   "hi": "रोहिणी: स्वामी चंद्र, देवता प्रजापति। परंपरा में इसे रचनात्मक, आकर्षक और सुख-सौंदर्य का प्रेमी बताया गया है।"
+  },
+  "nakshatra.mrigashira": {
+   "en": "Mrigashira: ruled by Mars, deity Soma. Traditionally described as curious, restless and always searching.",
+   "hi": "मृगशिरा: स्वामी मंगल, देवता सोम। परंपरा में इसे जिज्ञासु, बेचैन और सदा खोज में रहने वाला बताया गया है।"
+  },
+  "nakshatra.ardra": {
+   "en": "Ardra: ruled by Rahu, deity Rudra. Traditionally described as emotionally deep, capable of dramatic change and renewal.",
+   "hi": "आर्द्रा: स्वामी राहु, देवता रुद्र। परंपरा में इसे भावनात्मक रूप से गहरा, नाटकीय परिवर्तन और नवीनीकरण में सक्षम बताया गया है।"
+  },
+  "nakshatra.punarvasu": {
+   "en": "Punarvasu: ruled by Jupiter, deity Aditi. Traditionally described as optimistic, resilient and able to begin again.",
+   "hi": "पुनर्वसु: स्वामी गुरु, देवता अदिति। परंपरा में इसे आशावादी, लचीला और फिर से शुरुआत कर सकने वाला बताया गया है।"
+  },
+  "nakshatra.pushya": {
+   "en": "Pushya: ruled by Saturn, deity Brihaspati. Traditionally described as nurturing, dutiful and protective of others.",
+   "hi": "पुष्य: स्वामी शनि, देवता बृहस्पति। परंपरा में इसे पालन-पोषण करने वाला, कर्तव्यनिष्ठ और दूसरों का रक्षक बताया गया है।"
+  },
+  "nakshatra.ashlesha": {
+   "en": "Ashlesha: ruled by Mercury, deity the Nagas. Traditionally described as perceptive, private and strategic.",
+   "hi": "आश्लेषा: स्वामी बुध, देवता नाग। परंपरा में इसे सूक्ष्मदर्शी, गोपनीय और रणनीतिक बताया गया है।"
+  },
+  "nakshatra.magha": {
+   "en": "Magha: ruled by Ketu, deity the Pitris. Traditionally described as dignified, proud of heritage and inclined to lead.",
+   "hi": "मघा: स्वामी केतु, देवता पितर। परंपरा में इसे गरिमामय, विरासत पर गर्व करने वाला और नेतृत्व की ओर प्रवृत्त बताया गया है।"
+  },
+  "nakshatra.purvaPhalguni": {
+   "en": "Purva Phalguni: ruled by Venus, deity Bhaga. Traditionally described as warm, sociable and pleasure-loving.",
+   "hi": "पूर्वा फाल्गुनी: स्वामी शुक्र, देवता भग। परंपरा में इसे स्नेही, मिलनसार और आनंद-प्रिय बताया गया है।"
+  },
+  "nakshatra.uttaraPhalguni": {
+   "en": "Uttara Phalguni: ruled by Sun, deity Aryaman. Traditionally described as reliable, generous and committed to promises.",
+   "hi": "उत्तरा फाल्गुनी: स्वामी सूर्य, देवता अर्यमा। परंपरा में इसे भरोसेमंद, उदार और वचन निभाने वाला बताया गया है।"
+  },
+  "nakshatra.hasta": {
+   "en": "Hasta: ruled by Moon, deity Savitar. Traditionally described as skilful with the hands, practical and resourceful.",
+   "hi": "हस्त: स्वामी चंद्र, देवता सविता। परंपरा में इसे हाथों से कुशल, व्यावहारिक और साधन-संपन्न बताया गया है।"
+  },
+  "nakshatra.chitra": {
+   "en": "Chitra: ruled by Mars, deity Tvashtar. Traditionally described as artistic, with an eye for design and a striking presence.",
+   "hi": "चित्रा: स्वामी मंगल, देवता त्वष्टा। परंपरा में इसे कलात्मक, डिज़ाइन की समझ और प्रभावशाली व्यक्तित्व वाला बताया गया है।"
+  },
+  "nakshatra.swati": {
+   "en": "Swati: ruled by Rahu, deity Vayu. Traditionally described as independent, adaptable and moved by the winds of change.",
+   "hi": "स्वाति: स्वामी राहु, देवता वायु। परंपरा में इसे स्वतंत्र, अनुकूलनशील और परिवर्तन की हवा के साथ चलने वाला बताया गया है।"
+  },
+  "nakshatra.vishakha": {
+   "en": "Vishakha: ruled by Jupiter, deity Indra and Agni. Traditionally described as determined, goal-driven and persistent.",
+   "hi": "विशाखा: स्वामी गुरु, देवता इंद्र और अग्नि। परंपरा में इसे दृढ़ निश्चयी, लक्ष्य-केंद्रित और लगातार प्रयास करने वाला बताया गया है।"
+  },
+  "nakshatra.anuradha": {
+   "en": "Anuradha: ruled by Saturn, deity Mitra. Traditionally described as devoted, loyal and good at friendships.",
+   "hi": "अनुराधा: स्वामी शनि, देवता मित्र। परंपरा में इसे समर्पित, निष्ठावान और मित्रता निभाने में कुशल बताया गया है।"
+  },
+  "nakshatra.jyeshtha": {
+   "en": "Jyeshtha: ruled by Mercury, deity Indra. Traditionally described as protective, authoritative and conscious of seniority.",
+   "hi": "ज्येष्ठा: स्वामी बुध, देवता इंद्र। परंपरा में इसे रक्षक, प्रभावशाली और वरिष्ठता के प्रति सजग बताया गया है।"
+  },
+  "nakshatra.mula": {
+   "en": "Mula: ruled by Ketu, deity Nirriti. Traditionally described as probing, drawn to roots and truth, sometimes through upheaval.",
+   "hi": "मूल: स्वामी केतु, देवता निर्ऋति। परंपरा में इसे खोजी तथा जड़ों और सत्य की ओर आकर्षित बताया गया है, कभी-कभी उथल-पुथल के माध्यम से।"
+  },
+  "nakshatra.purvaAshadha": {
+   "en": "Purva Ashadha: ruled by Venus, deity the Waters. Traditionally described as invigorating, persuasive and undefeated in spirit.",
+   "hi": "पूर्वाषाढ़ा: स्वामी शुक्र, देवता जल देवता। परंपरा में इसे उत्साहवर्धक, प्रेरक और अपराजित मन वाला बताया गया है।"
+  },
+  "nakshatra.uttaraAshadha": {
+   "en": "Uttara Ashadha: ruled by Sun, deity the Vishvadevas. Traditionally described as principled, steady, with success that comes late but lasts.",
+   "hi": "उत्तराषाढ़ा: स्वामी सूर्य, देवता विश्वेदेव। परंपरा में इसे सिद्धांतवादी और स्थिर बताया गया है; सफलता देर से आती है पर टिकती है।"
+  },
+  "nakshatra.shravana": {
+   "en": "Shravana: ruled by Moon, deity Vishnu. Traditionally described as an attentive listener, a learner and a communicator.",
+   "hi": "श्रवण: स्वामी चंद्र, देवता विष्णु। परंपरा में इसे ध्यान से सुनने वाला, सीखने वाला और संवादकुशल बताया गया है।"
+  },
+  "nakshatra.dhanishta": {
+   "en": "Dhanishta: ruled by Mars, deity the Vasus. Traditionally described as rhythmic, ambitious and enterprising.",
+   "hi": "धनिष्ठा: स्वामी मंगल, देवता वसु। परंपरा में इसे लयबद्ध, महत्वाकांक्षी और उद्यमी बताया गया है।"
+  },
+  "nakshatra.shatabhisha": {
+   "en": "Shatabhisha: ruled by Rahu, deity Varuna. Traditionally described as independent, reserved and inclined to research and healing.",
+   "hi": "शतभिषा: स्वामी राहु, देवता वरुण। परंपरा में इसे स्वतंत्र, संयमी और शोध व उपचार की ओर झुकाव वाला बताया गया है।"
+  },
+  "nakshatra.purvaBhadrapada": {
+   "en": "Purva Bhadrapada: ruled by Jupiter, deity Aja Ekapada. Traditionally described as intense, idealistic and unconventional.",
+   "hi": "पूर्वाभाद्रपद: स्वामी गुरु, देवता अज एकपाद। परंपरा में इसे तीव्र, आदर्शवादी और अपरंपरागत बताया गया है।"
+  },
+  "nakshatra.uttaraBhadrapada": {
+   "en": "Uttara Bhadrapada: ruled by Saturn, deity Ahir Budhnya. Traditionally described as calm, deep and compassionate.",
+   "hi": "उत्तराभाद्रपद: स्वामी शनि, देवता अहिर्बुध्न्य। परंपरा में इसे शांत, गहरा और करुणामय बताया गया है।"
+  },
+  "nakshatra.revati": {
+   "en": "Revati: ruled by Mercury, deity Pushan. Traditionally described as gentle, caring and good at guiding others safely.",
+   "hi": "रेवती: स्वामी बुध, देवता पूषा। परंपरा में इसे कोमल, देखभाल करने वाला और दूसरों को सुरक्षित मार्ग दिखाने में कुशल बताया गया है।"
+  }
+ }
+}

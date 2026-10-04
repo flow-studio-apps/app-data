@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "appId": "money-flow",
+  "updatedAt": "2026-09-29T00:00:00Z",
+  "network": {
+    "policy": "offline-first",
+    "timeoutMs": 8000,
+    "refreshHours": 12,
+    "maxCacheAgeHours": 720
+  },
+  "update": {
+    "android": {
+      "minSupportedVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.flowstudio.moneyflow"
+    },
+    "ios": {
+      "minSupportedVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "storeUrl": "https://apps.apple.com/app/id0000000000"
+    },
+    "forceMessage": {
+      "en": "A new version of Money Flow is required to continue. Please update from the store."
+    },
+    "available": {
+      "newFeaturesCount": 3,
+      "bugFixesCount": 10,
+      "reminderIntervalHours": 24,
+      "packageSizeLabel": "18.6 MB"
+    }
+  },
+  "config": {},
+  "endpoints": {
+    "inAppMessages": "../../shared/in-app-messages.json",
+    "appInfo": "https://flow-studio-apps.github.io/data/apps/money-flow.json"
+  },
+  "packs": []
+}

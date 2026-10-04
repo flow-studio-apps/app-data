@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "appId": "template-base",
+  "updatedAt": "2026-09-29T00:00:00Z",
+  "network": {
+    "policy": "offline-first",
+    "timeoutMs": 8000,
+    "refreshHours": 12,
+    "maxCacheAgeHours": 720
+  },
+  "update": {
+    "android": {
+      "minSupportedVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ddapp.app"
+    },
+    "forceMessage": {
+      "en": "A new version of this app is required to continue. Please update from the store."
+    },
+    "available": {
+      "newFeaturesCount": 0,
+      "bugFixesCount": 0,
+      "reminderIntervalHours": 24
+    }
+  },
+  "config": {},
+  "endpoints": {
+    "inAppMessages": "../../shared/in-app-messages.json"
+  },
+  "packs": []
+}

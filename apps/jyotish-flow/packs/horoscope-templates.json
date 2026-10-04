@@ -1,0 +1,304 @@
+{
+ "summary": {
+  "1": {
+   "en": "The Moon is in your own sign today. You feel more alert and expressive; a good day to begin things that matter to you.",
+   "hi": "आज चंद्रमा आपकी अपनी राशि में है। आप अधिक सजग और अभिव्यक्तिपूर्ण महसूस करेंगे; अपने लिए महत्वपूर्ण कार्य शुरू करने का अच्छा दिन।"
+  },
+  "2": {
+   "en": "Attention turns to family, money and speech. Speak gently and keep spending measured.",
+   "hi": "ध्यान परिवार, धन और वाणी पर रहेगा। मधुरता से बोलें और खर्च सोच-समझकर करें।"
+  },
+  "3": {
+   "en": "Courage and initiative run high. Short trips, calls and conversations with siblings or neighbours go well.",
+   "hi": "साहस और पहल का भाव प्रबल है। छोटी यात्राएँ, फ़ोन पर बातचीत और भाई-बहनों या पड़ोसियों से मेल-जोल अच्छा रहेगा।"
+  },
+  "4": {
+   "en": "The mind turns homeward. Comfort and family matter most, though restlessness can creep in; keep the day simple.",
+   "hi": "मन घर की ओर लगेगा। सुख-सुविधा और परिवार महत्वपूर्ण रहेंगे, पर बेचैनी भी आ सकती है; दिन को सरल रखें।"
+  },
+  "5": {
+   "en": "Creativity and learning are favoured, but the mind can be busy. Choose one thing to focus on.",
+   "hi": "रचनात्मकता और सीखने के लिए अनुकूल दिन, पर मन व्यस्त रह सकता है। एक ही काम पर ध्यान केंद्रित करें।"
+  },
+  "6": {
+   "en": "A supportive day for clearing backlogs and handling competition or health routines with steady effort.",
+   "hi": "लंबित कार्य निपटाने और प्रतिस्पर्धा या स्वास्थ्य की दिनचर्या को स्थिर प्रयास से संभालने के लिए सहायक दिन।"
+  },
+  "7": {
+   "en": "Partnerships and meetings take centre stage. Listening well makes joint efforts go smoothly.",
+   "hi": "साझेदारी और मुलाक़ातें आज केंद्र में हैं। ध्यान से सुनने पर मिलकर किए गए काम सहज रहते हैं।"
+  },
+  "8": {
+   "en": "Feelings run deeper and things may move slowly. Go carefully, avoid rushing decisions and rest when you can.",
+   "hi": "भावनाएँ गहरी रहेंगी और काम धीमे चल सकते हैं। सावधानी रखें, निर्णयों में जल्दबाज़ी न करें और जब संभव हो आराम करें।"
+  },
+  "9": {
+   "en": "A day for reflection and learning. Guidance from elders or teachers helps; keep plans flexible and expectations modest.",
+   "hi": "चिंतन और सीखने का दिन। बड़ों या गुरुजनों का मार्गदर्शन सहायक रहेगा; योजनाओं में लचीले रहें और अपेक्षाएँ संयत रखें।"
+  },
+  "10": {
+   "en": "Work and public life are in focus. Effort is noticed today, so do the important task first.",
+   "hi": "काम और सार्वजनिक जीवन पर ध्यान रहेगा। आज आपके प्रयास दिखेंगे, इसलिए सबसे ज़रूरी काम पहले करें।"
+  },
+  "11": {
+   "en": "Traditionally a good day for gains, friendships and progress on your wishes. Reach out to your network.",
+   "hi": "परंपरा में लाभ, मित्रता और मनोकामनाओं की प्रगति के लिए अच्छा दिन माना जाता है। अपने परिचितों से संपर्क करें।"
+  },
+  "12": {
+   "en": "Energy turns inward and expenses may rise. Rest, reflect and prepare rather than push ahead.",
+   "hi": "ऊर्जा भीतर की ओर मुड़ेगी और खर्च बढ़ सकते हैं। आगे बढ़ने के बजाय आराम, चिंतन और तैयारी करें।"
+  }
+ },
+ "career": {
+  "1": {
+   "en": "Take the lead on something you care about; people notice your presence.",
+   "hi": "अपनी रुचि के किसी काम में नेतृत्व करें; लोग आपकी उपस्थिति को महसूस करेंगे।"
+  },
+  "2": {
+   "en": "Communication with colleagues matters today; be clear and courteous.",
+   "hi": "आज सहकर्मियों से संवाद महत्वपूर्ण है; स्पष्ट और विनम्र रहें।"
+  },
+  "3": {
+   "en": "Initiative pays off. Make that call or send that proposal.",
+   "hi": "पहल का लाभ मिलेगा। वह फ़ोन कीजिए या वह प्रस्ताव भेज दीजिए।"
+  },
+  "4": {
+   "en": "Work from a calm base; routine tasks go better than big changes.",
+   "hi": "शांत आधार से काम करें; बड़े बदलावों से बेहतर नियमित कार्य रहेंगे।"
+  },
+  "5": {
+   "en": "Fresh ideas come easily; write them down, then pick the best one.",
+   "hi": "नए विचार आसानी से आएँगे; उन्हें लिख लें, फिर सबसे अच्छा चुनें।"
+  },
+  "6": {
+   "en": "Pending tasks clear up and rivals lose their edge. Stay steady.",
+   "hi": "लंबित कार्य निपटेंगे और प्रतिद्वंद्वियों की पकड़ ढीली पड़ेगी। स्थिर रहें।"
+  },
+  "7": {
+   "en": "Collaboration and negotiations go well; listen before you propose.",
+   "hi": "सहयोग और बातचीत अच्छी रहेगी; प्रस्ताव रखने से पहले सुनें।"
+  },
+  "8": {
+   "en": "Progress may feel slow. Double-check details and avoid confrontation.",
+   "hi": "प्रगति धीमी लग सकती है। विवरण दोबारा जाँचें और टकराव से बचें।"
+  },
+  "9": {
+   "en": "Long-term planning and mentors help; keep an open mind about new routes.",
+   "hi": "दीर्घकालिक योजना और मार्गदर्शकों से मदद मिलेगी; नए रास्तों के लिए मन खुला रखें।"
+  },
+  "10": {
+   "en": "A strong day for visibility and responsibility. Finish the key task early.",
+   "hi": "पहचान और ज़िम्मेदारी के लिए प्रबल दिन। मुख्य काम जल्दी पूरा करें।"
+  },
+  "11": {
+   "en": "Networking and team wins are likely; recognition can follow past effort.",
+   "hi": "नेटवर्किंग और टीम की सफलता संभव है; पिछले प्रयासों को मान्यता मिल सकती है।"
+  },
+  "12": {
+   "en": "Work behind the scenes and prepare; hold off on big announcements.",
+   "hi": "पर्दे के पीछे रहकर तैयारी करें; बड़ी घोषणाएँ अभी रोकें।"
+  }
+ },
+ "finance": {
+  "1": {
+   "en": "Good for reviewing your budget and setting a clear money goal.",
+   "hi": "बजट की समीक्षा करने और धन का स्पष्ट लक्ष्य तय करने के लिए अच्छा दिन।"
+  },
+  "2": {
+   "en": "Watch impulse purchases; a small saving habit helps.",
+   "hi": "बिना सोचे खरीदारी से बचें; बचत की छोटी आदत मदद करेगी।"
+  },
+  "3": {
+   "en": "Small, practical steps work better than big bets.",
+   "hi": "बड़े दाँव से बेहतर छोटे, व्यावहारिक कदम रहेंगे।"
+  },
+  "4": {
+   "en": "Household spending may rise; comfort purchases can wait.",
+   "hi": "घरेलू खर्च बढ़ सकते हैं; सुविधा की खरीदारी टाल सकते हैं।"
+  },
+  "5": {
+   "en": "Avoid speculation; steady choices are safer than tempting shortcuts.",
+   "hi": "सट्टेबाज़ी से बचें; लुभावने शॉर्टकट से स्थिर निर्णय सुरक्षित हैं।"
+  },
+  "6": {
+   "en": "Clear a small debt or bill; disciplined tracking pays off.",
+   "hi": "कोई छोटा कर्ज़ या बिल चुकाएँ; अनुशासित हिसाब-किताब का लाभ मिलेगा।"
+  },
+  "7": {
+   "en": "Shared finances go smoothly if you talk openly.",
+   "hi": "साझा वित्तीय मामले खुलकर बात करने से सहज रहेंगे।"
+  },
+  "8": {
+   "en": "Be cautious with lending, borrowing and new commitments.",
+   "hi": "उधार देने-लेने और नई प्रतिबद्धताओं में सावधानी रखें।"
+  },
+  "9": {
+   "en": "Luck is uneven today; keep expectations realistic and do not count on chance.",
+   "hi": "आज भाग्य का साथ निश्चित नहीं; अपेक्षाएँ यथार्थ रखें और संयोग के भरोसे न रहें।"
+  },
+  "10": {
+   "en": "Earnings and responsibilities line up; a sensible day for planning.",
+   "hi": "आय और ज़िम्मेदारियाँ मेल खाती हैं; योजना बनाने के लिए समझदारी भरा दिन।"
+  },
+  "11": {
+   "en": "Traditionally a favourable day for gains; still, keep a margin for safety.",
+   "hi": "परंपरा में लाभ के लिए अनुकूल दिन माना जाता है; फिर भी सुरक्षा की गुंजाइश रखें।"
+  },
+  "12": {
+   "en": "Expenses can outrun plans. Track spending and postpone big buys.",
+   "hi": "खर्च योजना से आगे निकल सकते हैं। खर्च का हिसाब रखें और बड़ी खरीदारी टालें।"
+  }
+ },
+ "relationships": {
+  "1": {
+   "en": "You are warm and approachable; connect honestly with those close to you.",
+   "hi": "आप सहज और मिलनसार हैं; अपने करीबियों से ईमानदारी से जुड़ें।"
+  },
+  "2": {
+   "en": "Family conversations need gentle words; avoid sharp remarks.",
+   "hi": "पारिवारिक बातचीत में कोमल शब्द चुनें; तीखी टिप्पणियों से बचें।"
+  },
+  "3": {
+   "en": "Reach out to siblings or friends; small gestures count.",
+   "hi": "भाई-बहनों या मित्रों से संपर्क करें; छोटे इशारे भी मायने रखते हैं।"
+  },
+  "4": {
+   "en": "Time at home with family soothes you; be patient with moods.",
+   "hi": "परिवार के साथ घर पर समय बिताना सुकून देगा; मनोदशाओं के प्रति धैर्य रखें।"
+  },
+  "5": {
+   "en": "Affection and playfulness come naturally; give loved ones your full attention.",
+   "hi": "स्नेह और हँसी-मज़ाक स्वाभाविक रहेगा; अपनों को पूरा ध्यान दें।"
+  },
+  "6": {
+   "en": "Clear up a small misunderstanding; service and care go a long way.",
+   "hi": "कोई छोटी ग़लतफ़हमी दूर करें; सेवा और देखभाल बहुत काम आती है।"
+  },
+  "7": {
+   "en": "Partners and close friends are receptive; a good day to meet and talk.",
+   "hi": "जीवनसाथी और करीबी मित्र ग्रहणशील हैं; मिलने-बात करने का अच्छा दिन।"
+  },
+  "8": {
+   "en": "Emotions run deep; give others space and avoid heated arguments.",
+   "hi": "भावनाएँ गहरी हैं; दूसरों को स्थान दें और गरमागरम बहस से बचें।"
+  },
+  "9": {
+   "en": "Share a plan or a belief with someone you trust; be open to other views.",
+   "hi": "किसी विश्वासपात्र के साथ अपनी योजना या विश्वास साझा करें; दूसरों के विचारों के लिए खुले रहें।"
+  },
+  "10": {
+   "en": "Balance work and family; a kind word to a busy loved one helps.",
+   "hi": "काम और परिवार में संतुलन रखें; व्यस्त अपनों से एक मधुर शब्द कहें।"
+  },
+  "11": {
+   "en": "Friends and social plans bring joy; reconnect with old acquaintances.",
+   "hi": "मित्र और सामाजिक कार्यक्रम आनंद देंगे; पुराने परिचितों से फिर जुड़ें।"
+  },
+  "12": {
+   "en": "You may prefer solitude; quiet time with someone close is enough.",
+   "hi": "आप एकांत पसंद कर सकते हैं; किसी करीबी के साथ शांत समय काफ़ी है।"
+  }
+ },
+ "health": {
+  "1": {
+   "en": "Energy is good; a brisk walk or stretching suits you.",
+   "hi": "ऊर्जा अच्छी है; तेज़ चलना या हल्का व्यायाम उपयुक्त रहेगा।"
+  },
+  "2": {
+   "en": "Mind your diet and stay hydrated; avoid over-eating.",
+   "hi": "खान-पान का ध्यान रखें और पानी पिएँ; अधिक खाने से बचें।"
+  },
+  "3": {
+   "en": "You feel active and restless; channel it into light exercise.",
+   "hi": "आप सक्रिय और बेचैन हैं; इसे हल्के व्यायाम में लगाएँ।"
+  },
+  "4": {
+   "en": "Rest well; heavy meals and late nights can drain your comfort.",
+   "hi": "अच्छी तरह आराम करें; भारी भोजन और देर रात जागना थकान बढ़ा सकते हैं।"
+  },
+  "5": {
+   "en": "Keep the mind calm with short breaks; avoid overstimulation.",
+   "hi": "छोटे विश्राम लेकर मन शांत रखें; अत्यधिक उत्तेजना से बचें।"
+  },
+  "6": {
+   "en": "Good for starting a healthy routine and sticking to it.",
+   "hi": "स्वस्थ दिनचर्या शुरू करने और उसे निभाने के लिए अच्छा दिन।"
+  },
+  "7": {
+   "en": "Balance is the theme; moderate activity and regular meals.",
+   "hi": "संतुलन आज का विषय है; मध्यम गतिविधि और नियमित भोजन रखें।"
+  },
+  "8": {
+   "en": "Take it easy; avoid strain and rushing, and get enough sleep.",
+   "hi": "आराम से चलें; तनाव और जल्दबाज़ी से बचें और पर्याप्त नींद लें।"
+  },
+  "9": {
+   "en": "Outdoor time lifts your mood; keep travel comfortable and paced.",
+   "hi": "खुली हवा में समय बिताने से मन प्रसन्न रहेगा; यात्रा आरामदायक और संयमित रखें।"
+  },
+  "10": {
+   "en": "Do not skip meals or rest amid busy work; short breaks help.",
+   "hi": "व्यस्तता में भोजन या आराम न छोड़ें; छोटे विश्राम मदद करेंगे।"
+  },
+  "11": {
+   "en": "Spirits are high; enjoy social activity without overdoing it.",
+   "hi": "उत्साह ऊँचा है; सामाजिक गतिविधियों का आनंद लें, पर अति न करें।"
+  },
+  "12": {
+   "en": "Prioritise sleep and rest; gentle routines or meditation help.",
+   "hi": "नींद और आराम को प्राथमिकता दें; सरल दिनचर्या या ध्यान लाभकारी रहेगा।"
+  }
+ },
+ "tithiNote": {
+  "nanda": {
+   "en": "Tithi of joy (Nanda): a good time for celebrations, arts and new beginnings.",
+   "hi": "नंदा तिथि (आनंद): उत्सव, कला और नई शुरुआत के लिए अच्छा समय।"
+  },
+  "bhadra": {
+   "en": "Tithi of well-being (Bhadra): suited to steady work and looking after health. This is the tithi group, not the Bhadra (Vishti) period.",
+   "hi": "भद्रा संज्ञक तिथि (कल्याण): स्थिर कार्य और स्वास्थ्य की देखभाल के लिए उपयुक्त। यह तिथि-वर्ग है, भद्रा (विष्टि) काल नहीं।"
+  },
+  "jaya": {
+   "en": "Tithi of victory (Jaya): favours effort, competition and finishing what you started.",
+   "hi": "जया तिथि (विजय): प्रयास, प्रतिस्पर्धा और शुरू किए काम को पूरा करने के अनुकूल।"
+  },
+  "rikta": {
+   "en": "Tithi of emptiness (Rikta): traditionally less suited to starting new ventures; use it to wrap up and let go.",
+   "hi": "रिक्ता तिथि (रिक्तता): परंपरा में नए कार्य आरंभ करने के लिए कम अनुकूल मानी जाती है; इसे कार्य समेटने और अनावश्यक को छोड़ने में लगाएँ।"
+  },
+  "purna": {
+   "en": "Tithi of fullness (Purna): a time of completion and satisfaction.",
+   "hi": "पूर्णा तिथि (पूर्णता): पूर्ति और संतोष का समय।"
+  }
+ },
+ "nakshatraNote": {
+  "fixed": {
+   "en": "The Moon's nakshatra is a steady (fixed) one, suited to long-term commitments and lasting work.",
+   "hi": "आज चंद्रमा का नक्षत्र स्थिर प्रकृति का है, जो दीर्घकालिक प्रतिबद्धताओं और टिकाऊ कार्य के लिए उपयुक्त है।"
+  },
+  "movable": {
+   "en": "The Moon's nakshatra is a moving one, good for travel, errands and a change of pace.",
+   "hi": "आज चंद्रमा का नक्षत्र चर प्रकृति का है, जो यात्रा, छोटे काम और गति बदलने के लिए अच्छा है।"
+  },
+  "fierce": {
+   "en": "The Moon's nakshatra is an intense (fierce) one; channel strong feelings into bold, focused work.",
+   "hi": "आज चंद्रमा का नक्षत्र उग्र प्रकृति का है; प्रबल भावनाओं को साहसी और केंद्रित कार्य में लगाएँ।"
+  },
+  "mixed": {
+   "en": "The Moon's nakshatra is a mixed one; balance routine tasks with a little variety.",
+   "hi": "आज चंद्रमा का नक्षत्र मिश्र प्रकृति का है; नियमित कार्यों के साथ थोड़ी विविधता रखें।"
+  },
+  "swift": {
+   "en": "The Moon's nakshatra is a swift one, good for quick starts, trade and learning.",
+   "hi": "आज चंद्रमा का नक्षत्र क्षिप्र (शीघ्र) प्रकृति का है, जो तेज़ शुरुआत, व्यापार और सीखने के लिए अच्छा है।"
+  },
+  "soft": {
+   "en": "The Moon's nakshatra is a gentle one, favourable for the arts, friendships and comforts.",
+   "hi": "आज चंद्रमा का नक्षत्र मृदु प्रकृति का है, जो कला, मित्रता और सुख-सुविधा के अनुकूल है।"
+  },
+  "sharp": {
+   "en": "The Moon's nakshatra is a sharp one; be direct and careful, and avoid hasty words.",
+   "hi": "आज चंद्रमा का नक्षत्र तीक्ष्ण प्रकृति का है; स्पष्ट और सावधान रहें तथा जल्दबाज़ी में बोलने से बचें।"
+  }
+ }
+}

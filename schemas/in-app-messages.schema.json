@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://flow-studio-apps.github.io/app-data/schemas/in-app-messages.schema.json",
+  "title": "Shared in-app messages (shared/in-app-messages.json)",
+  "description": "One file for every app; each message targets apps via `apps` (['*'] = all). Same shape as the apps' InAppMessagesConfig type. Also enforced by tools/lib.mjs: unique message ids.",
+  "type": "object",
+  "required": ["notifications"],
+  "properties": {
+    "notifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "apps", "title", "body", "actions"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "is_active": { "type": "boolean" },
+          "apps": { "type": "array", "items": { "type": "string" } },
+          "title": { "$ref": "#/$defs/text" },
+          "body": { "$ref": "#/$defs/text" },
+          "style": { "enum": ["info", "warning", "promo"] },
+          "priority": { "type": "integer" },
+          "platforms": { "type": "array", "items": { "enum": ["Android", "iOS"] } },
+          "versionTarget": {
+            "type": "object",
+            "required": ["operator", "version"],
+            "properties": {
+              "operator": { "enum": ["lt", "lte", "eq", "gte", "gt", "between"] },
+              "version": { "$ref": "#/$defs/semver" },
+              "toVersion": { "$ref": "#/$defs/semver" }
+            },
+            "if": { "properties": { "operator": { "const": "between" } } },
+            "then": { "required": ["toVersion"] }
+          },
+          "schedule": {
+            "type": "object",
+            "properties": {
+              "startAt": { "type": "string", "format": "date-time" },
+              "endAt": { "type": "string", "format": "date-time" }
+            }
+          },
+          "repeat": { "enum": ["once", "every-launch", "daily", "weekly", null] },
+          "dismissal": {
+            "type": "object",
+            "properties": {
+              "oneTime": { "type": "boolean" },
+              "cooldownHours": { "type": "number", "minimum": 0 }
+            }
+          },
+          "actions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "label", "type"],
+              "properties": {
+                "id": { "type": "string", "minLength": 1 },
+                "label": { "$ref": "#/$defs/text" },
+                "is_active": { "type": "boolean" },
+                "type": { "enum": ["url", "dismiss", "deeplink"] },
+                "url": { "type": "string", "pattern": "^https://" },
+                "route": { "type": "string", "pattern": "^/" },
+                "color": { "type": "string" }
+              },
+              "allOf": [
+                { "if": { "properties": { "type": { "const": "url" } } }, "then": { "required": ["url"] } },
+                { "if": { "properties": { "type": { "const": "deeplink" } } }, "then": { "required": ["route"] } }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "semver": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "text": {
+      "oneOf": [
+        { "type": "string", "minLength": 1 },
+        {
+          "type": "object",
+          "required": ["en"],
+          "properties": { "en": { "type": "string", "minLength": 1 } },
+          "additionalProperties": { "type": "string" }
+        }
+      ]
+    }
+  }
+}

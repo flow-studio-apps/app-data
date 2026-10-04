@@ -1,0 +1,11 @@
+{
+  "name": "flow-studio-app-data",
+  "private": true,
+  "type": "module",
+  "description": "Runtime JSON for the Flow Studio apps. No dependencies.",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check": "node tools/build.mjs --check",
+    "test": "node --test tools/build.test.mjs"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "appId": "jyotish-flow",
+  "updatedAt": "2026-09-30T05:15:49Z",
+  "network": {
+    "policy": "offline-first",
+    "timeoutMs": 8000,
+    "refreshHours": 12,
+    "maxCacheAgeHours": 720
+  },
+  "update": {
+    "android": {
+      "minSupportedVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.flowstudio.jyotishflow"
+    },
+    "forceMessage": {
+      "en": "A new version of Kundli & Panchang is required to continue. Please update from the store.",
+      "hi": "जारी रखने के लिए कुंडली और पंचांग का नया संस्करण आवश्यक है। कृपया स्टोर से अपडेट करें।"
+    },
+    "available": {
+      "newFeaturesCount": 0,
+      "bugFixesCount": 0,
+      "reminderIntervalHours": 24
+    }
+  },
+  "config": {},
+  "endpoints": {
+    "inAppMessages": "../../shared/in-app-messages.json",
+    "appInfo": "https://flow-studio-apps.github.io/data/apps/jyotish-flow.json"
+  },
+  "packs": [
+    {
+      "id": "festival-rules",
+      "type": "festival-rules",
+      "schema": 1,
+      "url": "packs/festival-rules.json",
+      "version": 2,
+      "sha256": "25b1626cd18eee128a6ffaa391ccd345cd3c943bb7cd5e1af9da0e6822ad7099",
+      "bytes": 19616
+    },
+    {
+      "id": "festivals-2026",
+      "type": "festivals",
+      "schema": 1,
+      "url": "packs/festivals/2026.json",
+      "version": 2,
+      "sha256": "7ff12e051cc9432934874ea38a6c5778a0bbb0a99c01d6f1b06823eb887a5484",
+      "bytes": 17270
+    },
+    {
+      "id": "festivals-2027",
+      "type": "festivals",
+      "schema": 1,
+      "url": "packs/festivals/2027.json",
+      "version": 2,
+      "sha256": "c13f071686d0c4f595056fe70bb5e36d97870fbd5f00cf8268f5da3c266e3d07",
+      "bytes": 17270
+    },
+    {
+      "id": "festivals-2028",
+      "type": "festivals",
+      "schema": 1,
+      "url": "packs/festivals/2028.json",
+      "version": 2,
+      "sha256": "bcdc8d20d2c4ff5cd099d2418e206eb7cc1ddfce03b0e4b1860bfbc8f4562843",
+      "bytes": 17270
+    },
+    {
+      "id": "festivals-2029",
+      "type": "festivals",
+      "schema": 1,
+      "url": "packs/festivals/2029.json",
+      "version": 2,
+      "sha256": "326212e5096b23b8d6a9c48c38e4d4f73bfbb5406b608174edc9c011dc8752c8",
+      "bytes": 17270
+    },
+    {
+      "id": "festivals-2030",
+      "type": "festivals",
+      "schema": 1,
+      "url": "packs/festivals/2030.json",
+      "version": 2,
+      "sha256": "a671177e9bc7c223dc48a60077c63384905abced23d10dfa7535b8146867e9cf",
+      "bytes": 17270
+    },
+    {
+      "id": "horoscope-templates",
+      "type": "horoscope-templates",
+      "schema": 1,
+      "url": "packs/horoscope-templates.json",
+      "version": 2,
+      "sha256": "364b2ae0d792b4c44a35e32c572d9821cf4f041d09fba28fd128bd6d7fae0c76",
+      "bytes": 22407
+    },
+    {
+      "id": "interpretations",
+      "type": "interpretations",
+      "schema": 1,
+      "url": "packs/interpretations.json",
+      "version": 2,
+      "sha256": "515582942f413a1f4c10470a3c8705b178ae2f4252f09d8c8c8f9a7a25591ea3",
+      "bytes": 22964
+    },
+    {
+      "id": "places-india",
+      "type": "places",
+      "schema": 1,
+      "url": "packs/places/india.json",
+      "minAppVersion": "1.0.0",
+      "version": 1,
+      "sha256": "3bd9c773d3edcdb2ceb740cb13e8bc26f39faf3f8040ccece3ce85da4fb36f04",
+      "bytes": 363939
+    },
+    {
+      "id": "places-world",
+      "type": "places",
+      "schema": 1,
+      "url": "packs/places/world.json",
+      "minAppVersion": "1.0.0",
+      "version": 1,
+      "sha256": "5e62b40a02507aa4c82cad516303f37e7e57525545cf243753e667a2750deb8f",
+      "bytes": 332340
+    }
+  ]
+}

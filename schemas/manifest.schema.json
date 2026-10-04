@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://flow-studio-apps.github.io/app-data/schemas/manifest.schema.json",
+  "title": "App root manifest (apps/<appId>/manifest.json)",
+  "description": "The one URL built into each app. Unknown keys are ignored by apps. Also enforced by tools/lib.mjs: appId matches its folder, relative endpoints exist, pack urls stay inside the app folder, pack ids are unique, pack files are valid JSON and at most 2 MiB. sha256, bytes, version and updatedAt are written by tools/build.mjs.",
+  "type": "object",
+  "required": ["schemaVersion", "appId", "network", "packs"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "appId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]*$" },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "network": {
+      "type": "object",
+      "required": ["policy"],
+      "properties": {
+        "policy": { "enum": ["offline-first", "online-first", "online-required"] },
+        "timeoutMs": { "type": "integer", "minimum": 1 },
+        "refreshHours": { "type": "integer", "minimum": 1 },
+        "maxCacheAgeHours": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "update": { "$ref": "update.schema.json" },
+    "config": { "type": "object", "description": "App-specific flags and limits; the app keeps its own defaults." },
+    "endpoints": {
+      "type": "object",
+      "description": "Non-pack JSON the app reads. Relative URLs resolve against the manifest URL; absolute ones must be https.",
+      "properties": {
+        "inAppMessages": { "type": "string" },
+        "appInfo": { "type": "string" }
+      },
+      "additionalProperties": { "type": "string" }
+    },
+    "packs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "schema", "url"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+          "type": { "type": "string", "minLength": 1 },
+          "schema": { "type": "integer", "minimum": 1 },
+          "version": { "type": "integer", "minimum": 1 },
+          "url": { "type": "string", "description": "Path relative to the manifest." },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "bytes": { "type": "integer", "minimum": 0, "maximum": 2097152 },
+          "minAppVersion": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+          "langs": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}
